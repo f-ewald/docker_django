@@ -1,0 +1,56 @@
+bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/usr/src/app/gunicorn_start.sh: line 3: $'\r': command not found
+[2017-05-03 21:36:17 +0000] [18] [INFO] Starting gunicorn 19.3.0
+[2017-05-03 21:36:17 +0000] [18] [INFO] Listening at: http://0.0.0.0:8000 (18)
+[2017-05-03 21:36:17 +0000] [18] [INFO] Using worker: sync
+[2017-05-03 21:36:17 +0000] [22] [INFO] Booting worker with pid: 22
+[2017-05-03 21:36:17 +0000] [24] [INFO] Booting worker with pid: 24
+bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/usr/src/app/gunicorn_start.sh: line 3: $'\r': command not found
+[2017-05-03 21:51:52 +0000] [8] [INFO] Starting gunicorn 19.3.0
+[2017-05-03 21:51:52 +0000] [8] [INFO] Listening at: http://0.0.0.0:8000 (8)
+[2017-05-03 21:51:52 +0000] [8] [INFO] Using worker: sync
+[2017-05-03 21:51:52 +0000] [12] [INFO] Booting worker with pid: 12
+[2017-05-03 21:51:52 +0000] [13] [INFO] Booting worker with pid: 13
+bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/usr/src/app/gunicorn_start.sh: line 3: $'\r': command not found
+[2017-05-03 21:56:58 +0000] [8] [INFO] Starting gunicorn 19.3.0
+[2017-05-03 21:56:58 +0000] [8] [INFO] Listening at: http://0.0.0.0:8000 (8)
+[2017-05-03 21:56:58 +0000] [8] [INFO] Using worker: sync
+[2017-05-03 21:56:58 +0000] [12] [INFO] Booting worker with pid: 12
+[2017-05-03 21:56:58 +0000] [13] [INFO] Booting worker with pid: 13
+bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/usr/src/app/gunicorn_start.sh: line 3: $'\r': command not found
+[2017-05-03 22:01:01 +0000] [8] [INFO] Starting gunicorn 19.3.0
+[2017-05-03 22:01:01 +0000] [8] [INFO] Listening at: http://0.0.0.0:8000 (8)
+[2017-05-03 22:01:01 +0000] [8] [INFO] Using worker: sync
+[2017-05-03 22:01:01 +0000] [12] [INFO] Booting worker with pid: 12
+[2017-05-03 22:01:01 +0000] [13] [INFO] Booting worker with pid: 13
+[2017-05-03 22:02:52 +0000] [8] [INFO] Handling signal: term
+[2017-05-03 22:02:59 +0000] [12] [INFO] Worker exiting (pid: 12)
+[2017-05-03 22:02:59 +0000] [13] [INFO] Worker exiting (pid: 13)
+[2017-05-03 22:02:59 +0000] [8] [INFO] Shutting down: Master
+bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/usr/src/app/gunicorn_start.sh: line 3: $'\r': command not found
+[2017-05-03 22:03:00 +0000] [28] [INFO] Starting gunicorn 19.3.0
+[2017-05-03 22:03:00 +0000] [28] [INFO] Listening at: http://0.0.0.0:8000 (28)
+[2017-05-03 22:03:00 +0000] [28] [INFO] Using worker: sync
+[2017-05-03 22:03:00 +0000] [32] [INFO] Booting worker with pid: 32
+[2017-05-03 22:03:00 +0000] [34] [INFO] Booting worker with pid: 34
+[2017-05-03 22:07:56 +0000] [28] [INFO] Handling signal: term
+[2017-05-03 22:08:02 +0000] [32] [INFO] Worker exiting (pid: 32)
+[2017-05-03 22:08:02 +0000] [34] [INFO] Worker exiting (pid: 34)
+[2017-05-03 22:08:02 +0000] [28] [INFO] Shutting down: Master
+bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/usr/src/app/gunicorn_start.sh: line 3: $'\r': command not found
+[2017-05-03 22:08:03 +0000] [48] [INFO] Starting gunicorn 19.3.0
+[2017-05-03 22:08:03 +0000] [48] [INFO] Listening at: http://0.0.0.0:8000 (48)
+[2017-05-03 22:08:03 +0000] [48] [INFO] Using worker: sync
+[2017-05-03 22:08:03 +0000] [52] [INFO] Booting worker with pid: 52
+[2017-05-03 22:08:03 +0000] [54] [INFO] Booting worker with pid: 54
+[2017-05-04 15:57:06 +0000] [48] [CRITICAL] WORKER TIMEOUT (pid:52)
+[2017-05-04 15:57:06 +0000] [48] [CRITICAL] WORKER TIMEOUT (pid:54)
+[2017-05-04 15:57:06 +0000] [54] [INFO] Worker exiting (pid: 54)
+[2017-05-04 15:57:06 +0000] [52] [INFO] Worker exiting (pid: 52)
+[2017-05-04 15:57:06 +0000] [56] [INFO] Booting worker with pid: 56
+[2017-05-04 15:57:06 +0000] [57] [INFO] Booting worker with pid: 57
