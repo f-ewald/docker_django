@@ -1,4 +1,5 @@
 #!/bin/bash
+export PYTHONPATH=$PYTHONPATH:/usr/src/app/docker_django/apps
 
 # Launch the supervisorctl processes
 supervisord -n -c /etc/supervisor/supervisord.conf
