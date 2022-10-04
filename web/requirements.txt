@@ -1,5 +1,5 @@
-Django==2.2.24
+Django==4.1.2
 gunicorn==19.5.0
 psycopg2==2.6
 redis==2.10.3
-celery==4.0.2
+celery==5.2.2
