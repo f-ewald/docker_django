@@ -1,5 +1,5 @@
 Django==4.2.21
-gunicorn==19.5.0
+gunicorn==23.0.0
 psycopg2==2.6
 redis==2.10.3
 celery==5.2.2
